@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Full-Stack Web Development & DSA<br> I’m looking to collaborate on React.js and Open Source Projects<br> I’m looking for help with Backend Development & System Design<br> I’m currently learning Node.js, REST APIs, and Competitive Programming<br>Ask me about Java, DSA, React.js, and Real-Time Applications<br>Fun fact: I built a real-time collaborative code editor handling 10+ users simultaneously 🚀
+I’m currently building real-world Full-Stack projects and improving my DSA skills<br> I’m looking to collaborate on React.js and Open Source Projects<br> I’m looking for help with Backend Development & System Design<br> I’m currently learning Node.js, REST APIs, and Competitive Programming<br>Ask me about Java, DSA, React.js, and Real-Time Applications<br>Fun fact: I built a real-time collaborative code editor handling 10+ users simultaneously 🚀
 
 
 # 💻 Tech Stack:
